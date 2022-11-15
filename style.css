@@ -1,0 +1,34 @@
+body{
+    background-color: white;
+}
+.section_one{
+    text-size-adjust: 14px;
+    color: green;
+    padding: 5px;
+    margin-left: 40px;
+    letter-spacing: 2px;
+    border-style: dashed;
+
+}
+
+.section_two{
+    text-size-adjust: 14px;
+    color: red;
+    padding: 5px;
+    margin-left: 40px;
+    letter-spacing: 2px;
+    border-style: dotted;
+
+
+}
+
+.section_three{
+    text-size-adjust: 14px;
+    color: blue;
+    padding: 5px;
+    margin-left: 40px;
+    letter-spacing: 2px;
+    border-style: solid;
+}
+
+ 
